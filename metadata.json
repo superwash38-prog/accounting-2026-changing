@@ -1,0 +1,6 @@
+{
+  "name": "Accounting House",
+  "description": "بيت المحاسبة (Accounting House) - نظام محاسبي احترافي لإدارة المبيعات والمصاريف والديون ومخطط المساهمة الدائري والنسخ الاحتياطي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
